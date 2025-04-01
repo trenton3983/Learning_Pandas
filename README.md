@@ -2,6 +2,7 @@
 ## Michael Heydt
 ## ISBN-13: 9781783985128
 
+![Learning Pandas](Learning_Pandas.png)
 
 We have an IPython Notebook for each chapter with code. The chapter number is used as the first two characters and .ipynb is used as the extension. To run these files, follow the instructions given in chapter 2, Installing pandas or unzip the files to a new directory, and from within the directory, in terminal or command prompt, issue the following command:
 
